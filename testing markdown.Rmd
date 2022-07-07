@@ -2,9 +2,7 @@
 title: "testing rmarkdown"
 author: "Khoa D. Le Nguyen"
 date: "`r Sys.Date()`"
-output: 
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
